@@ -14,4 +14,7 @@ Kernopy is an enterprise IoT platform designed to simplify complex IoT implement
 - [Kernopy website](https://kernopy.com)
 - [Kernopy platform](https://dev.kernopy.com)
 
+## Public Repos
+- [Kernopy Simulated device - Python](https://github.com/kernopy/simulated-device-python)
+
 
